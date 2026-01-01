@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Chamola</h1>
-<h3 align="center">Computer Science(AIML) Student | Machine Learning Enthusiast</h3>
+<h3 align="center">CSE (AI & ML) Student | Aspiring Data Scientist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mayankchamola&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -7,58 +7,51 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍🎓 About Me
 
-- 🎓 Computer Science Student  
-- 🤖 Interested in **Machine Learning & Deep Learning**
-- 🌐 Building ML Projects
-- 🧠 Currently learning **Model Optimization & Deployment**
-- 🔍 Love solving real-world problems using AI  
+- 🎓 CSE (Artificial Intelligence & Machine Learning)   
+- 📊 Interested in **Data Science & Machine Learning**
+- 🧠 Learning how to analyze data and build ML models
+- 🐍 Python enthusiast
+- 🚀 Goal: Become a skilled **Data Scientist**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages & Tools
 
-**Languages**
+### 💻 Programming Languages
 - 🐍 Python  
-- 🌐 HTML, CSS  
+- 🌐 HTML, CSS
 
-**Frameworks & Tools**
-- Flask  
+### 📊 Data Science & Analysis
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Seaborn
+- Flask
+- SQL
+
+### 🤖 Machine Learning (Beginner)
 - Scikit-learn  
-- Pandas, NumPy  
+- Logistic Regression  
+- Linear Regression  
+- Decision Tree  
+- Random Forest (basic understanding)
+
+### 🧪 Tools & Platforms
+- Jupyter Notebook  
+- Google Colab  
+- VS Code  
 - Git & GitHub  
 
-**Machine Learning**
-- Logistic Regression  
-- Random Forest  
-- Gradient Boosting  
-- Text Classification  
-
 ---
 
-## 📌 Featured Projects
-
-### 📰 Fake News Detection System
-- ML-based system to classify news as **Fake or Real**
-- Used Logistic Regression, RF & Gradient Boosting
-- Deployed using **Flask**
-
-### 🤖 AI News Authenticity Checker
-- Fetches live news using API
-- Checks credibility using ML + AI models
-
-### 📊 Data Analysis Projects
-- Data cleaning & visualization using Python
-- Real-world datasets
-
----
 
 ## 🧠 Currently Learning
-- Deep Learning (CNN, RNN)
-- Model Deployment
-- API Integration
-- Advanced ML Techniques
+- Data Analysis
+- Machine Learning Algorithms
+- Data Visualization
+- Python for Data Science
 
 ---
 
@@ -67,3 +60,7 @@
 - 📧 Email: mayankchamola09@gmail.com  
 - 💻 GitHub: https://github.com/mayankchamola  
 
+---
+
+### ⚡ Quote
+> *“Data is the new oil, and I’m learning how to refine it.”* 😎
