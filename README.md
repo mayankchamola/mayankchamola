@@ -1,16 +1,81 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mayank Chamola</h1>
+<h3 align="center">Computer Science(AIML) Student | Machine Learning Enthusiast</h3>
 
-<!--
-**mayankchamola/mayankchamola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Student  
+- 🤖 Interested in **Machine Learning & Deep Learning**
+- 🌐 Building ML Projects
+- 🧠 Currently learning **Model Optimization & Deployment**
+- 🔍 Love solving real-world problems using AI  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- 🐍 Python  
+- 🌐 HTML, CSS  
+
+**Frameworks & Tools**
+- Flask  
+- Scikit-learn  
+- Pandas, NumPy  
+- Git & GitHub  
+
+**Machine Learning**
+- Logistic Regression  
+- Random Forest  
+- Gradient Boosting  
+- Text Classification  
+
+---
+
+## 📌 Featured Projects
+
+### 📰 Fake News Detection System
+- ML-based system to classify news as **Fake or Real**
+- Used Logistic Regression, RF & Gradient Boosting
+- Deployed using **Flask**
+
+### 🤖 AI News Authenticity Checker
+- Fetches live news using API
+- Checks credibility using ML + AI models
+
+### 📊 Data Analysis Projects
+- Data cleaning & visualization using Python
+- Real-world datasets
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+- Deep Learning (CNN, RNN)
+- Model Deployment
+- API Integration
+- Advanced ML Techniques
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: mayankchamola09@gmail.com  
+- 💻 GitHub: https://github.com/mayankchamola  
+
