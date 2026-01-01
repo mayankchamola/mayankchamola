@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science(AIML) Student | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mayankchamola&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
